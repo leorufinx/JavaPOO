@@ -1,0 +1,4 @@
+//usamos o this para que uma ação ocorra idependente do objeto, no caso, pode ser tanto o c1
+	//tanto o c2, o this vai ser substituido por quem chamar primeiro, exemplo: c1.status();
+	// vai fazer com que o this seja substituido mostrando os atributos do método stauts como:
+	// c1.cor, c1.modelo, c1.ponta etc ...
